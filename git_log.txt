@@ -1,0 +1,11 @@
+commit 186691ec1401f01d8db0c02960bf8cab13edd96e
+Author: Lorth95 <xorth@stuba.sk>
+Date:   Tue Oct 15 16:52:56 2024 +0200
+
+    dvojstlpcovy obrazok
+
+commit 721ce622279c99ef1e64a6e1e6148f97eecdbc23
+Author: Lorth95 <xorth@stuba.sk>
+Date:   Tue Oct 8 16:47:37 2024 +0200
+
+    prvy commit
